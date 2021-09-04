@@ -1,2 +1,6 @@
 # hello-world
-This is the beginning of a hopefully successful repository
+
+Hey Person! (Well, hopefully a real person...)
+
+My name's CodingKid04, and I'm an aspiring Programmer, Game Dev, and Computer Science Major (In the upcomming years)
+I like making games, playing games, playing instruments, programming, and all kinds of other stuff!
